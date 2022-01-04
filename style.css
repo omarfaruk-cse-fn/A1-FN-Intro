@@ -80,7 +80,7 @@ h1{
     border-radius: 10px;
     text-align: justify;
     border-left: 7px solid;
-    border-image:linear-gradient( salmon, tomato);
+    border-image:linear-gradient( gold, tomato);
     border-image-slice:1; 
 }
 footer p{
