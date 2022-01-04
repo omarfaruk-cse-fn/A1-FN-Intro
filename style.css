@@ -9,12 +9,13 @@ h1{
 .well-come-font{
     color:orange;
 } 
-#one{
+.one{
     display: flex;
     padding: 20px;
+    margin-bottom: 100px;
 }
 .c-one{
-    float: left;
+   
     width: 50%;
 }
 .c-one img{
@@ -28,7 +29,7 @@ h1{
     text-align: justify;
     
 }
-#read-more-one
+.read-more-one
 {
     background-image: linear-gradient( orange, tomato);
     padding: 10px 30px;
@@ -36,4 +37,10 @@ h1{
     font-weight: 700;
     border-radius: 5px;
     color: white;
+}
+.boking-hotel
+{
+    padding-left: 20px;
+    width: 50%;
+
 }
